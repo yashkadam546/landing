@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Webinar Registration</title>
-    <link rel="pagesheet" href="page.css"
+    <title>Product or Service Promotion</title>
 </head>
 <body>
     <header>
@@ -13,25 +12,20 @@
     </header>
     <main>
         <section class="hero">
-            <h1>Unlock the Power of Webinar Topic</h1>
-            <h2>Join Our Exclusive Webinar on Date and Time</h2>
-            <img src="webinar_image.jpg" alt="Webinar Image">
+            <h1>Special Offer: [Product or Service Name]</h1>
+            <h2>Save [Discount Amount] Today!</h2>
+            <img src="product_image.jpg" alt="Product Image">
         </section>
-        <section class="registration-form">
-            <h2>Register Now</h2>
-            <form action="process_registration.php" method="post">
-                <div class="input-group">
-                    <input type="text" name="first_name" placeholder="First Name" required>
-                    <input type="text" name="last_name" placeholder="Last Name" required>
-                </div>
-                <div class="input-group">
-                    <input type="email" name="email" placeholder="Email" required>
-                    <input type="text" name="company" placeholder="Company" required>
-                </div>
-                <input type="text" name="job_title" placeholder="Job Title" required>
-                <input type="tel" name="phone" placeholder="Phone (Optional)">
-                <button type="submit">Register Now</button>
-            </form>
+        <section class="promotion-details">
+            <p>[Product/Service Description]</p>
+            <p>Features:</p>
+            <ul>
+                <li>[Feature 1]</li>
+                <li>[Feature 2]</li>
+                <li>[Feature 3]</li>
+            </ul>
+            <p>Price: <strong>[Original Price] $ [Discounted Price]</strong></p>
+            <button>Get Offer</button>
         </section>
     </main>
     <footer>
