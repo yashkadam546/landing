@@ -12,24 +12,24 @@
     </header>
     <main>
         <section class="hero">
-            <h1>Special Offer: [Product or Service Name]</h1>
-            <h2>Save [Discount Amount] Today!</h2>
+            <h1>Special Offer: [Mobile Phone]</h1>
+            <h2>Save [25000] Today!</h2>
             <img src="product_image.jpg" alt="Product Image">
         </section>
         <section class="promotion-details">
             <p>[Product/Service Description]</p>
             <p>Features:</p>
             <ul>
-                <li>[Feature 1]</li>
-                <li>[Feature 2]</li>
-                <li>[Feature 3]</li>
+                <li>[RAM 6 GB]</li>
+                <li>[HIGH PERFORMANCE]</li>
+                <li>[BEST DESIGN]</li>
             </ul>
-            <p>Price: <strong>[Original Price] $ [Discounted Price]</strong></p>
+            <p>Price: <strong>[50000] $ [25000]</strong></p>
             <button>Get Offer</button>
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 Your Company Name. All Rights Reserved.</p>
+        <p>&copy; 2023 Samsung. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
